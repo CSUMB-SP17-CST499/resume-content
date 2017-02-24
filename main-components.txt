@@ -1,5 +1,5 @@
 The main componentes of a resume are: 
-1) 
+1)Component one 
 2) 
 3) 
 4)
